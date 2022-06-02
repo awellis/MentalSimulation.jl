@@ -1,5 +1,6 @@
 module MentalSimulation
 
-# Write your package code here.
+using Parameters, Turing, Random
+using CairoMakie
 
 end
